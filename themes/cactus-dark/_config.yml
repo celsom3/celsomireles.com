@@ -1,10 +1,9 @@
 nav:
   Home: /
-  About: /about/
+  About: /about.html
   Writing: /archives/
-  Projects: http://github.com/celsom3
 
-projects_url: http://github.com/celsom3
+# projects_url: http://github.com/celsom3
 
 customize:
     gravatar:
@@ -27,12 +26,11 @@ customize:
         url: /images/apple-touch-icon.png
         gravator: false
     social_links:
-        github: http://github.com/probberechts/cactus-dark
-        twitter: /
-        facebook: /
-        linkedin: /
+        github: http://github.com/celsom3
+        twitter: http://twitter.com/celsom3
+        linkedin: https://www.linkedin.com/in/celsomireles/
     show_all_posts: false
-    post_count: 5
+    post_count: 10
     highlight: rainbow
 
 # RSS
