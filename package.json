@@ -18,6 +18,9 @@
     "hexo-server": "^0.2.0"
   },
   "scripts": {
-    "start": "hexo generate && hexo server"
+    "start": "hexo generate && hexo server",
+    "build": "hexo generate",
+    "github": "cp -rf public/ gh-pages/",
+    "deploy": "npm run build && npm run deploy"
   }
 }
