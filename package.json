@@ -1,9 +1,9 @@
 {
-  "name": "hexo-site",
+  "name": "celsomireles.com",
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": ""
+    "version": "3.3.5"
   },
   "dependencies": {
     "hexo": "^3.2.0",
