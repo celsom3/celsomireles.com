@@ -6,7 +6,7 @@ tags: short-story
 
 ![Apple, http://maxpixel.freegreatpicture.com/Green-Fruit-Nature-Tree-Garden-Season-Apples-1214797](/images/Green-Fruit-Nature-Tree-Garden-Season-Apples-1214797.jpg)
 
-She slams around aimlessly trying to stop the alarm, but the fact that it's 3rd snooze and now 7:45 won't change. She's late for work.
+She slams around aimlessly trying to stop the alarm, but the fact that it's the 3rd snooze and now 7:45 won't change. She's late for work.
 
 > Damn it Ashley! You can't be late today.
 
