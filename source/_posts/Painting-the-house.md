@@ -4,6 +4,8 @@ date: 2017-04-30 14:44:44
 tags: random
 ---
 
+![Painting the House](/images/2017-04-11-14.39.33.jpg)
+
 So I'm trying out a new static blog generator. It's called [Hexo](https://hexo.io).
 
 I know. Don't judge me, imaginary reader that judges me.
