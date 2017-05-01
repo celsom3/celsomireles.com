@@ -32,13 +32,13 @@ Well, she made it. Lunchtime!
 
 Oh yeah: no lunch. :-/
 
-And it's not like she has a budget to spend on lunches anyway, but the morning didn't give her time to make the usual turkey sandwich.
+And it's not like she has a budget to spend on lunch anyway, but the morning didn't give her time to make the usual turkey sandwich.
 
 > To the Circle K!
 
 All she has is 3 bucks; should be enough for an apple and maybe some yogurt thing about to expire.
 
-> Today wasn't so bad. It wasn't even that busy. Not the usual but-load of customers.
+> Today wasn't so bad. It wasn't even that busy. Not the usual butt-load of customers.
 
 It's a beautiful day outside. The first of May, usually not too hot, even in the Valley of the Sun.
 
@@ -46,7 +46,7 @@ There seems to be a noisy crowd coming up the street.
 
 > La gente! Unida! Jamas será vencida!
 
-Who know what that means?! She'll check it out after getting lunch.
+Who knows what that means?! She'll check it out after getting lunch.
 
 She walks into the Circle K.
 
@@ -54,7 +54,7 @@ She walks into the Circle K.
 
 She didn't realize she said this out loud. The cashier nods with little amusement:
 
-> Yeah, that's not the only thing going messing up around here. We're lucky to have apples.
+> Yeah, that's not the only thing messing up around here. We're lucky to have apples.
 
 <br>
 > What do you mean?
@@ -73,7 +73,7 @@ Oh yeah, she's heard of this, on Fox News maybe. *Illegals refusing to work for 
 > So why not give those jobs to Americans that should have those jobs in the first place?
 
 <br>
-> Oh they've tried. But it seems you can't get away with paying Americans what they you the wetbacks. Apparently, the white boys would only do the work for 3 times as much per hour, and only 8 hours a day to top it all off. So that's why your apple now costs 5 dollars.
+> Oh they've tried. But it seems you can't get away with paying Americans what they pay the wetbacks. Apparently, the white boys would only do the work for 3 times as much, and only 8 hours a day to top it all off. So that's why your apple now costs 5 dollars.
 
 Wow, she never thought about it like that.
 
