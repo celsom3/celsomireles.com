@@ -1,6 +1,7 @@
 ---
 title: Big City Blues
 date: 2017-01-17 17:01:01
+categories: journal
 tags:
 ---
 
