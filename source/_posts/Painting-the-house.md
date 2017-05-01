@@ -8,7 +8,7 @@ So I'm trying out a new static blog generator. It's called [Hexo](https://hexo.i
 
 I know. Don't judge me, imaginary reader that judges me.
 
-So I suppose now comes the times where I try to explain myself. Here comes thes rationalizations and long winded arguments as to why this is not crazy.
+So I suppose now comes the time where I try to explain myself. Here come the rationalizations and long winded arguments as to why this is not crazy.
 
 Here goes.
 
