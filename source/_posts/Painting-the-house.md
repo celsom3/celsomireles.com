@@ -1,7 +1,7 @@
 ---
 title: Painting the house
 date: 2017-04-30 14:44:44
-tags:
+tags: random
 ---
 
 So I'm trying out a new static blog generator. It's called [Hexo](https://hexo.io).

@@ -56,6 +56,10 @@ tag_map:
   - node
   - git
   - undocumented
+  - random
+  - journal
+  - poetry
+  - music
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
