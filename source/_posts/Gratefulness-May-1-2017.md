@@ -7,7 +7,7 @@ categories: journal
 
 Just a quick list of things I'm grateful for today:
 
-* Being alive
+* Being alive!
 * Sharing this life with my wife
 * My parents
 * My siblings, all of them
