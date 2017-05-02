@@ -4,7 +4,7 @@ rightnow=$(date)
 
 npm run build
 
-npm run github
+npm run transfer
 
 cd ./gh-pages
 
