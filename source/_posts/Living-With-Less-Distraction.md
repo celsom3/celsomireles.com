@@ -1,7 +1,9 @@
 ---
 title: Living With Less Distraction
 date: 2017-05-02 21:43:12
-tags: journal, random
+tags:
+  - journal
+  - random
 categories: journal
 ---
 
