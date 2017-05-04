@@ -6,6 +6,8 @@ tags:
   - short-story
 ---
 
+![Riding in Houston](/images/2014-03-21-19.07.25.jpg)
+
 It was just an ordinary day. The usual turns and maneuvers to avoid the potholes as I ride my motorcyle home from work.
 
 Nothing particularly memorable that day.
