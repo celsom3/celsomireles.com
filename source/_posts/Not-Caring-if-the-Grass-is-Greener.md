@@ -71,7 +71,9 @@ If the answer is yes, then I'm doing alright. On the right track.
 
 > Well, but look at your friends that are already having kids and have a house, and have a career and have their shit together...
 
-Not my business. I'm better than I was yesterday, and that's the only measure of progress that really counts.
+Good for them! I can be genuinely happy for them.
+
+But... not my business. I'm better than I was yesterday, and that's the only measure of progress that really counts.
 
 I'll end with a excerpt from a favorite poem of mine ['Desiderata'](https://es.wikipedia.org/wiki/Desiderata):
 
