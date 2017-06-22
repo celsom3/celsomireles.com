@@ -8,6 +8,8 @@ npm run transfer
 
 cd ./gh-pages
 
+git pull
+
 git add --all
 
 git commit -m "Updated site: $rightnow"
