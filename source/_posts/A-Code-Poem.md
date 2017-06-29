@@ -1,6 +1,7 @@
 ---
 title: A Code Poem
 date: 2017-06-28 18:12:41
+thumbnail: https://s20.postimg.org/v3w47mxml/nature-is-the-machine.jpg
 tags:
   - code-poems
 categories:
