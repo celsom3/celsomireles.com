@@ -7,7 +7,7 @@ nav:
 
 customize:
     gravatar:
-        email:
+        email: 'celso.mireles@gmail.com'
     logo:
         enabled: true
         width: 50

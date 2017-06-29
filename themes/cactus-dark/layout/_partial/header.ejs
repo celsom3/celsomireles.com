@@ -1,3 +1,6 @@
+<div style="position:absolute;top: -10000px; left: -10000px;">
+  <img src="<%- url_for(theme.customize.logo.url) %>" alt="Celso Mireles">
+</div>
 <header id="header">
   <a href="<%- url_for("/") %>">
   <% if (theme.customize.logo && theme.customize.logo.enabled) { %>
@@ -16,7 +19,7 @@
       <li class="icon">
         <a href="#"><i class="fa fa-bars fa-2x"></i></a>
       </li>
-      <% for (var i in theme.nav) { %> 
+      <% for (var i in theme.nav) { %>
         <li><a href="<%- url_for(theme.nav[i]) %>"><%= i %></a></li>
       <% } %>
     </ul>
