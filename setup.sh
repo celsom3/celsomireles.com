@@ -12,4 +12,4 @@ else
   mkdir $DIRECTORY
 fi
 
-git clone https://github.com/celsom3/celsomireles.com.git --branch gh-pages --single-branch $DIRECTORY
+git clone git@github.com:celsom3/celsomireles.com.git --branch gh-pages --single-branch $DIRECTORY
